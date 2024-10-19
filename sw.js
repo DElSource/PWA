@@ -4,7 +4,8 @@ const CACHE_NAME = 'blog-cache-v1';
 // List of assets to cache
 const ASSETS_TO_CACHE = [
   'openhanmar.blogspot.com',
-  'https://cdn.jsdelivr.net/gh/DElsource/PWA@main/offline-page.html',  // Update with the path to your main HTML file
+  'https://cdn.jsdelivr.net/gh/DElsource/PWA@main/offline-page.html'
+  // Update with the path to your main HTML file
 ];
 
 // Install event - caching files
